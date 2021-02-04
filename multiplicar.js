@@ -1,0 +1,1 @@
+module.exports = (valor1, valor2) => valor1 * valor2;
